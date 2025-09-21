@@ -7,4 +7,8 @@
 <img width="1012" height="660" alt="image" src="https://github.com/user-attachments/assets/e6b4ad76-b522-4c94-a211-99d28d1afee9" />
 <img width="737" height="387" alt="image" src="https://github.com/user-attachments/assets/38d40b7f-0152-4f05-92b7-5d0e271c0d0f" />
 3. Microsoft office - B1 (LOD 350)
-Federated Model <img width="762" height="622" alt="image" src="https://github.com/user-attachments/assets/773fc49b-b2c3-4826-aa06-cc7881227d7e" />
+<img width="762" height="622" alt="image" src="https://github.com/user-attachments/assets/773fc49b-b2c3-4826-aa06-cc7881227d7e" />
+<img width="705" height="525" alt="image" src="https://github.com/user-attachments/assets/98723aac-da67-4523-89f1-186dda990f78" />
+<img width="656" height="479" alt="image" src="https://github.com/user-attachments/assets/0da6639d-41c5-4b7d-83e3-99e4f0ff0f9f" />
+<img width="574" height="488" alt="image" src="https://github.com/user-attachments/assets/132f5093-a99a-4187-b2e0-415890b116fe" />
+<img width="581" height="456" alt="image" src="https://github.com/user-attachments/assets/402b9e36-1c47-4f5b-8d2a-96de8b1ec41c" />
